@@ -16,7 +16,7 @@ var age = 38
 var population = 8_000_0000
 
 /*
- In general, swift using double qutore for value. but it can be used for multiline. for multiline you can using triple double quotes
+ In general, swift using double qutore for value. but it can be used for multiline. for multiline you can using triple double quotes and add \ each line excep last line
  */
 var description = """
 Bayu is newbie swift programmer
